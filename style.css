@@ -338,16 +338,6 @@ html, body {
     cursor: pointer;
   }
   
-  @media (min-width: 720px) {
-    .envelope {
-      --envelope-width: 600px;
-      --envelope-height: 350px;
-      --letter-font-size: 1.6rem;
-      --snowman-width: 130px;
-      --bells-width: 60px;
-      --front-font-size: 1.25rem;
-    }
-  }
   /* shadow */
   .envelope::after {
     content: "";
