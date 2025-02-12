@@ -337,7 +337,7 @@ html, body {
     perspective: 1000px;
     cursor: pointer;
   }
-  
+
   /* shadow */
   .envelope::after {
     content: "";
